@@ -2,8 +2,8 @@
 
 ## endpoint
 <ul>
-    <li><a href="https://blokchainology.com/test/api/v1/posts">https://blokchainology.com/test/api/v1/posts</a></li>
-    <li><a href="https://blokchainology.com/test/api/v1/users">https://blokchainology.com/test/api/v1/userss</a></li>
+    <li><a href="#">https://domin/api/v1/posts</a></li>
+    <li><a href="#">https://domin/api/v1/userss</a></li>
 </ul>
 
 <hr>
